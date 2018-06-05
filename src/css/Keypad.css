@@ -1,0 +1,20 @@
+.key {
+    display: inline-block;
+    height: 75px;
+    width: 75px;
+    background-color: gray;
+    color: #fff;
+    line-height: 75px;
+    font-size: 30px;
+    text-align: center;
+    border: 1px solid darkslategray;
+}
+
+.key,
+span:hover {
+    cursor: pointer;
+}
+
+.operator {
+    background-color: orange;
+}

@@ -1,0 +1,15 @@
+.display {
+    margin-top: 50px;
+    height: 75px;
+    border: 1px solid darkslategray;
+    text-align: right;
+    font-size: 40px;
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Squada One', cursive;
+    padding-right: 10px;
+    overflow: hidden;
+}
+
+p {
+    font-size: 14px;
+}
